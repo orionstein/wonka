@@ -28,7 +28,6 @@ lib/bs
 .cache/
 
 yarn-error.log
-dist/
 node_modules/
 lib/
 src/**/*.bs.js
